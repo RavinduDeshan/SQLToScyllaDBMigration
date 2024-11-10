@@ -1,0 +1,5 @@
+{
+  "executedMigrations": [
+    "20241110T052752179Z_create_chatBotMessages_table.js"
+  ]
+}
